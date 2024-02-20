@@ -6,11 +6,10 @@
     align-items: center;
     justify-content: center;
 }
-.boxs{
+.container{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
+    flex-direction: column;
+    gap: 20px;
     margin-top: 30px;
 }
 img{
